@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Golang, Terraform, Kubernetes**
 
-- 📫 How to reach me **kamran0812@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/kamranhassannizami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kamranhassannizami" height="30" width="40" /></a>
